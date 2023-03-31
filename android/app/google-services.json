@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432306759259",
+    "project_id": "flutter-emailsignin",
+    "storage_bucket": "flutter-emailsignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432306759259:android:69542d0a5bbf05dc1d417e",
+        "android_client_info": {
+          "package_name": "com.yj.flutter_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432306759259-famtgaphhlqdmueqikp67qbruf8c3gg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7L2wGyu2NvE8kF14GblkYGXqgktVBfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432306759259-famtgaphhlqdmueqikp67qbruf8c3gg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
